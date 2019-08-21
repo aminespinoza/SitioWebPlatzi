@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/amin/Documents/Platzi/Web Apps/PlatziWebsite/PlatziWebsite.csproj": {}
+    "/home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/PlatziWebsite.csproj": {}
   },
   "projects": {
-    "/home/amin/Documents/Platzi/Web Apps/PlatziWebsite/PlatziWebsite.csproj": {
+    "/home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/PlatziWebsite.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/amin/Documents/Platzi/Web Apps/PlatziWebsite/PlatziWebsite.csproj",
+        "projectUniqueName": "/home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/PlatziWebsite.csproj",
         "projectName": "PlatziWebsite",
-        "projectPath": "/home/amin/Documents/Platzi/Web Apps/PlatziWebsite/PlatziWebsite.csproj",
+        "projectPath": "/home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/PlatziWebsite.csproj",
         "packagesPath": "/home/amin/.nuget/packages/",
-        "outputPath": "/home/amin/Documents/Platzi/Web Apps/PlatziWebsite/obj/",
+        "outputPath": "/home/amin/Documents/Platzi/Web Apps/SitioWebPlatzi/PlatziWebsite/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/share/dotnet/sdk/NuGetFallbackFolder"
